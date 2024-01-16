@@ -1,0 +1,22 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.card {
+    padding: 2em;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.buttons span {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #0070f3;
+}
